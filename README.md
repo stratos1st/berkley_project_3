@@ -1,4 +1,6 @@
 # berkley_project_3
-εκφώνηση http://ai.berkeley.edu/reinforcement.html
+Εκφώνηση http://ai.berkeley.edu/reinforcement.html
 
-αναφορά report.pdf
+Αναφορά report.pdf
+
+!! Είναι γραμμένο σε pythin 2.6 !!
